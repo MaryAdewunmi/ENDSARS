@@ -1,0 +1,4 @@
+# ENDSARS
+The dataset used here was gotten from web scraping using this web connector to the tweeter "http://files.tableaujunkie.com/twittersearch/html/twitterwebconnect.html", so as culled and understand what EndSARS stood for. SARS means Special Anti-Robbery Squad (SARS) was a part of Nigerian Police Force unit created in late 1992 to deal with crimes associated with robbery, motor vehicle theft, kidnapping, cattle rustling, and firearms. Instead of carryout their major assignment, they started brutalizing and killing youths under the disguise of the Police force. EndSARs protest started in October which was meant to address these issues but was later hijacked by Hoodlums and resorted into another massacre of Nigerian Youths.
+
+The quality of these datasets was poor because the hashtags /tweets did not focus on the main aim and objectives. This is really a major concern because the quality of data will affect the quality of decision being made with the data.
